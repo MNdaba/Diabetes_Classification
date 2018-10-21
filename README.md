@@ -1,4 +1,4 @@
 # Diabetes_Classification
 #The project includes a set of algorithms which are used to classify type II diabetes. 
 #The algorithms can be executed from the main method of each class. There is a method that can be used to update algorithm parameters
-#Each class requires the Observation to store a set of instances
+#Each class requires the Observation class to store a set of instances
